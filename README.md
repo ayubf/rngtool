@@ -2,7 +2,6 @@
 Quick rng tool for Linux. Coin toss, dice roll, etc
 
 ## Command Syntax:
-
 ------------------
 
 ``dice``: returns a number between 1 and 6
@@ -11,7 +10,6 @@ Quick rng tool for Linux. Coin toss, dice roll, etc
 
 
 ## Installation:
-
 ----------------
 
 ``pip3 install rngtool``
