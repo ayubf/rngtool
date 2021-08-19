@@ -12,4 +12,6 @@ Quick rng tool for Linux. Coin toss, dice roll, etc
 
 ``pip3 install rngtool``
 
+### [PyPi Page](https://pypi.org/project/rngtool/)
+
 
