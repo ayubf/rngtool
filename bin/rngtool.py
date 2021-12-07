@@ -59,7 +59,7 @@ def main():
         Thank you for installing!
         
         ''')
-    if len(sys.argv) == 1:
+    if len(sys.argv) <= 1:
         help()
     elif sys.argv[1] == 'dice':
         rollDice()
