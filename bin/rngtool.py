@@ -28,9 +28,6 @@ def main():
                 else: 
                      n = random.randint(int(sys.argv[2]), int(sys.argv[3]))
                      print('You got',n)
-    def marbleRoll():
-         print('Heya')
-         
           
     def help():
         print(''' 
@@ -69,5 +66,3 @@ def main():
         randOptions()
     elif sys.argv[1] == 'help':
         help()
-    elif sys.argv[1] == 'marbles':
-         marbleRoll()
